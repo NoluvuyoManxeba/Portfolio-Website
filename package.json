@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "now-build": "next build",
     "start": "next start",
     "lint": "next lint",
     "push": "git add -A && git commit -m 'update changes and bug fixes' && git push origin master"
